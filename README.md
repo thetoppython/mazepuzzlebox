@@ -1,4 +1,4 @@
-# what is this
+# About this site
 
 django web application to create a maze puzzle box DXF.
 
